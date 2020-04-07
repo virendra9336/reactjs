@@ -1,0 +1,19 @@
+.header {
+  color: #0012ff;
+  background-color: #22c2ff;
+  /* height: 10%; */
+  padding: 1%;
+  padding-left: 7%;
+  }
+  .body{
+    background-color: #52c7ac;
+    height: 90%;
+    margin: auto;
+    padding: 1px;
+  }
+  .footer{
+    padding: 1px;
+    background-color: #2cc2ff;
+    margin: auto;
+    color: white;
+  }
